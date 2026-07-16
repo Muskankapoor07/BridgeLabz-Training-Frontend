@@ -1,2 +1,2 @@
-# BridgeLabz-Training-Frontend
+# BridgeLabz-Training-car-store-website
 Hands-on Web Programming projects and assignments using HTML5, CSS3, JavaScript, TypeScript, DOM, and OOP concepts.
